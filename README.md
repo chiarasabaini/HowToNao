@@ -6,7 +6,8 @@
 ## Content
 
 - [Installing Choreographe](#installing-choreographe)
-- [Connecting physical robot to Choreographe](#connecting-physical-robot-to-choreographe)
+- [Connecting Choreographe to the virtual robot](#connecting-choreographe-to-the-virtual-robot)
+- [Connecting Choreographe to physical robot](#connecting-choreographe-to-physical-robot)
 - [Creating a project](#creating-a-project)
 - [Running a project](#running-a-project)
 
@@ -22,7 +23,14 @@
 
 ---
 
-### Connecting physical robot to Choreographe
+### Connecting Choreographe to a virtual robot
+
+- ***Connecting to the virtual robot included in Choreographe***\
+ In Choregraphe, choose <kbd>Connection<kbd> and then <kbd>Connect to a local NAOqi<kbd> menu.
+
+---
+
+### Connecting Choreographe to physical robot
 
 ---
 
