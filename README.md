@@ -23,10 +23,11 @@
 
 ---
 
-### Connecting Choreographe to a virtual robot
+### Connecting Choreographe to the virtual robot
 
-- ***Connecting to the virtual robot included in Choreographe***\
- In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NAOqi</kbd> menu.
+In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NAOqi</kbd> menu.
+
+<add img>
 
 ---
 
@@ -39,3 +40,8 @@
 ---
 
 ### Running a project
+
+---
+
+### Resources
+ - [Choreographe's official documentation](http://doc.aldebaran.com/1-14/software/choregraphe)
