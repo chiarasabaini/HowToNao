@@ -7,6 +7,8 @@
 
 - [Installing Choreographe](#installing-choreographe)
 - [Connecting physical robot to Choreographe](#connecting-physical-robot-to-choreographe)
+- [Creating a project](#creating-a-project)
+- [Running a project](#running-a-project)
 
 ---
 
@@ -21,3 +23,11 @@
 ---
 
 ### Connecting physical robot to Choreographe
+
+---
+
+### Creating a project
+
+---
+
+### Running a project
