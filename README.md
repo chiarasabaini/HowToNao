@@ -26,7 +26,7 @@
 ### Connecting Choreographe to a virtual robot
 
 - ***Connecting to the virtual robot included in Choreographe***\
- In Choregraphe, choose <kbd>Connection<kbd> and then <kbd>Connect to a local NAOqi<kbd> menu.
+ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NAOqi</kbd> menu.
 
 ---
 
