@@ -20,6 +20,8 @@
  
  - ***Step 2 - Run the installer***\
    Run the file you just downloaded
+   
+   *For a more detailed guide to the installation check the [official documentation](http://doc.aldebaran.com/1-14/software/installing.html)*
 
 ---
 
@@ -45,3 +47,4 @@ In Choregraphe, choose <kbd>Connection</kbd> and then <kbd>Connect to a local NA
 
 ### Resources
  - [Choreographe's official documentation](http://doc.aldebaran.com/1-14/software/choregraphe)
+ - [Projects you can try on Nao](https://funlab.nd.edu/the-nao-base/special-movements/)
